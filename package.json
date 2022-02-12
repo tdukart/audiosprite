@@ -1,5 +1,5 @@
 {
-  "name": "audiosprite",
+  "name": "@tdukart/audiosprite",
   "description": "Concat small audio files into single file and export in many formats.",
   "keywords": [
     "audio",
